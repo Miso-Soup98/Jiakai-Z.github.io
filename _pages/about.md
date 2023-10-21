@@ -34,7 +34,7 @@ Course: Digital Communications, Information Theory & Encoding, Numerical Analysi
 GPA: 84/100
 
  
-Jinling Institute of Technology    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp    Nanjing, Jiangsu, China
+Jinling Institute of Technology    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Nanjing, Jiangsu, China
 ---
 Bachelor of Communication Engineering                                      2017/09-2021/06
 
