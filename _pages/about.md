@@ -21,9 +21,9 @@ Outside of my academic pursuits, I am passionate about sports and outdoor activi
 
 ### Education
 
-Nantong University                                                 Nantong, Jiangsu, China
+Nantong University   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             Nantong, Jiangsu, China
 ---
-M.Sc. in Information and Communication Engineering                   2021/09-2024/06 (expected)
+M.Sc. in Information and Communication Engineering     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              2021/09-2024/06 (expected)
 
 Supervisor: Prof. Xiaoyan Shen
 
@@ -34,9 +34,9 @@ Course: Digital Communications, Information Theory & Encoding, Numerical Analysi
 GPA: 84/100
 
  
-Jinling Institute of Technology    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Nanjing, Jiangsu, China
+Jinling Institute of Technology    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Nanjing, Jiangsu, China
 ---
-Bachelor of Communication Engineering                                      2017/09-2021/06
+Bachelor of Communication Engineering   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   2017/09-2021/06
 
 Dissertation: Python Based Data Analysis and Processing System
 
