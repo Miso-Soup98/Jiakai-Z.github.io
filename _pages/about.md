@@ -19,7 +19,8 @@ Outside of my academic pursuits, I am passionate about sports and outdoor activi
 - Mountain Hiking
 - Running
 
-### Education
+Education
+---
 
 Nantong University   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             Nantong, Jiangsu, China
 ---
@@ -43,4 +44,22 @@ Dissertation: Python Based Data Analysis and Processing System
 Course: Advanced Language Programming C++, Matlab, Signals and Systems, Principles of Communications, Information Theory & Coding, DSP, Analog Circuits, Digital Circuits 
 
 GPA: 84.18/100
+
+Honors and Awards
+---
+- National Second Prize, "Huawei Cup" The 19th China Post-Graduate Mathematical Contest in Modeling (Top 10%)
+  - Date: 2023/01
+
+- National Second Prize, "GigaDevice Cup" The 17th China Graduate Electronics Design Contest
+  - Date: 2022/09
+
+- Second Prize, "GigaDevice Cup" The 18th China Graduate Electronics Design Contest (Business Plan)
+  - Date: 2022/09
+
+- The First Prize Scholarship, Nantong University
+  - Date: 2023/09
+
+- The Second Prize Scholarship, Nantong University (2 times)
+  - Dates: 2021/09, 2022/09
+
 
