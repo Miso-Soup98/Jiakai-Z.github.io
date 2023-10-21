@@ -21,7 +21,7 @@ Outside of my academic pursuits, I am passionate about sports and outdoor activi
 
 ### Education
 
-Nantong University   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             Nantong, Jiangsu, China
+Nantong University   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             Nantong, Jiangsu, China
 ---
 M.Sc. in Information and Communication Engineering     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              2021/09-2024/06 (expected)
 
