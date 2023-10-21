@@ -13,7 +13,7 @@ name                     : &name "Jiakai Zhang"
 description              : &description "I'm a third-year master's student specializing in Brain-Computer Interfaces, with hobbies in badminton, fishing, hiking, and running."
 url                      : https://Jiakai-Z.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "miso-soup98.github.io/Jiakai-Z.github.io"
+repository               : "https://miso-soup98.github.io/Jiakai-Z.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
