@@ -24,17 +24,22 @@ Outside of my academic pursuits, I am passionate about sports and outdoor activi
 Nantong University                                                 Nantong, Jiangsu, China
 ---
 M.Sc. in Information and Communication Engineering                   2021/09-2024/06 (expected)
-Supervisor: Prof. Xiaoyan Shen                                                            
+
+Supervisor: Prof. Xiaoyan Shen
+
 Thesis: Non-Invasive BCI Virtual Cursor Control and Applications Based on Motion Imagery
+
 Course: Digital Communications, Information Theory & Encoding, Numerical Analysis, Biosignal Detection System Design, Mathematical Modelling
 
 GPA: 84/100
 
  
-Nantong University                                                 Nanjing, Jiangsu, China
+Jinling Institute of Technology    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp    Nanjing, Jiangsu, China
 ---
 Bachelor of Communication Engineering                                      2017/09-2021/06
+
 Dissertation: Python Based Data Analysis and Processing System
+
 Course: Advanced Language Programming C++, Matlab, Signals and Systems, Principles of Communications, Information Theory & Coding, DSP, Analog Circuits, Digital Circuits 
 
 GPA: 84.18/100
