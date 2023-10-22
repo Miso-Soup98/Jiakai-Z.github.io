@@ -7,6 +7,6 @@ venue: '*Medical & Biological Engineering & Computing*'
 citation: 'Jiakai Zhang, Xuemei Wang, Boyang Xu, Yan Wu, Xiongjie Lou, and Xiaoyan Shen*, “An overview of methods of left and right foot motor imagery based on Tikhonov regularization common spatial pattern,” Medical & Biological Engineering & Computing, vol. 61, pp. 1047–1056, Jan. 2023.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://miso-soup98.github.io/Jiakai-Z.github.io/files/04b0ead9-f188-46e6-a730-337e858b9d08.pdf)
 
 This study examines a motor imagery brain-computer interface (MI-BCI) for differentiating between left and right foot motor imagery in spinal cord injury patients. We employ Tikhonov regularized CSP (TRCSP) and compare various classification methods. The TRCSP-SVM method outperforms the rest with an average accuracy of 97%, improving accuracy by up to 10%. These findings provide valuable insights for lower limb MI-BCI systems in rehabilitation training.
