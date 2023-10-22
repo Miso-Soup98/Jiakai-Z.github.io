@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "A high-performance general computer cursor control scheme based on a hybrid BCI combining motor imagery and eye-tracking"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2023-10-10
+venue: 'Computers in Biology and Medicine'
+citation: 'Jiakai Zhang, Yuqi Zhang, Xinlong Zhang, Boyang Xu, Huanqing Zhao, Tinghui Sun, Ju Wang, Xiaoyan Shen*, “A high-performance general computer cursor control scheme based on a hybrid BCI combining motor imagery and eye-tracking,” Computers in Biology and Medicine (under review).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
