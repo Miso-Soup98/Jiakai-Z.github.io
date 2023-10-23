@@ -15,6 +15,8 @@ Objective
 
 The aim of this project is to find a way to use EEG signals to achieve efficient and stable control of the cursor of a general computer and to perform some basic operational functions.
 
+The technology can be integrated into common computer systems, enabling individuals with neuromuscular disabilities to perform tasks like [text entry](https://youtu.be/E2vyO-HLtD0?si=ZT33aQghjMzf6pmR) (with an average text input rate of 53.2 characters per minute), online communication[1](https://youtu.be/iUDBRqCKgY8?si=kkReNa6Gsl_E5SxG),[2](https://youtu.be/9Bf4iGqWRZw?si=T_SzVNsxXN9BgZhh), and [web browsing](https://youtu.be/zXXYaPUcbFM?si=LouBWsdVUfnM2LEH), improving their online integration and inspiring future BCI developments.
+
 Results
 ======
 
