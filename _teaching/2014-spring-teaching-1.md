@@ -10,11 +10,13 @@ location: "Nantong, China"
 
 ---
 
-Heading 1
+Objective
 ======
 
-Heading 2
+This dispensing robot design combines machine vision and deep learning to extract dispensing paths, enhancing adaptability and accuracy for various products. It outperforms traditional dispensers and boosts manufacturing intelligence, with significant engineering potential.
+
+[File]()
 ======
 
-Heading 3
+[Video simulation]()
 ======
