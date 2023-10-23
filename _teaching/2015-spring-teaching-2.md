@@ -14,8 +14,12 @@ Objective
 ======
 The aim of this project is to conduct a combinatorial study using different pattern recognition and classification algorithms to find an optimal method for classifying real-time MI EEG signals under big data.
 
-Heading 2
+Results
 ======
 
-Heading 3
-======
+- Four algorithm combinations were investigated, and the results showed that, as the best combination of spatial filtering and classification algorithms, the TRCSP-SVM method shows great potential for improving the performance of lower-limb KMI systems.
+
+- Published a research paper on Medical & Biological Engineering & Computing.
+
+- Applied for a Chinese [patent](https://miso-soup98.github.io/Jiakai-Z.github.io/images) based on the research findings.
+
