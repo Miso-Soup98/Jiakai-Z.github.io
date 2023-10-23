@@ -4,7 +4,7 @@ collection: teaching
 type: "Principal Investigator"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Nantong University, Information and Communication Engineering"
-date: 2021-10---2022-09
+date: 2021/10-2022/09
 location: "Nantong, China"
 ---
 
