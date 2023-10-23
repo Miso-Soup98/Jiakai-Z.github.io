@@ -15,8 +15,8 @@ Objective
 
 This dispensing robot design combines machine vision and deep learning to extract dispensing paths, enhancing adaptability and accuracy for various products. It outperforms traditional dispensers and boosts manufacturing intelligence, with significant engineering potential.
 
-[File]()
+[File](https://miso-soup98.github.io/Jiakai-Z.github.io/files/robot.pdf)
 ======
 
-[Video simulation]()
+[Video simulation](https://youtu.be/Mi6KRezQOXk?si=PQRghMtT72bPK6IF)
 ======
