@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 3"
+title: "Research on a cursor system for motor imagery brain-computer interfaces"
 collection: teaching
-type: "Undergraduate course"
+type: "Principal Investigator"
 permalink: /teaching/Teaching experience 3
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Nantong University, Information and Communication Engineering"
+date: 2022-11-01
+location: "Nantong, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
