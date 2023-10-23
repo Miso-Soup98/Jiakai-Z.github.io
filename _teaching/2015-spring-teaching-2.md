@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Research on Optimal Classification of MI EEG Signals under Big Data"
 collection: teaching
-type: "Workshop"
+type: "Principal Investigator"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Nantong University, Information and Communication Engineering"
+date: 2021-10---2022-09
+location: "Nantong, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
