@@ -8,6 +8,8 @@ date: 2021-10-01-2022-09-30
 location: "Nantong, China"
 ---
 
+---
+
 Objective
 ======
 The aim of this project is to conduct a combinatorial study using different pattern recognition and classification algorithms to find an optimal method for classifying real-time MI EEG signals under big data.
