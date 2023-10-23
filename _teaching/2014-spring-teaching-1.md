@@ -1,8 +1,7 @@
 ---
 title: "Path self-planning dispensing/gluing robot"
 collection: teaching
-type: "Investigator"
----
+type: "#Investigator"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Nantong University, Information and Communication Engineering"
 date: 2022-07-01
