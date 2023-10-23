@@ -21,5 +21,5 @@ Results
 
 - Published a research paper on Medical & Biological Engineering & Computing.
 
-- Applied for a Chinese [patent](https://miso-soup98.github.io/Jiakai-Z.github.io/images) based on the research findings.
+- Applied for a Chinese [patent](https://miso-soup98.github.io/Jiakai-Z.github.io/images/ERD.jpg) based on the research findings.
 
